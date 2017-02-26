@@ -1,0 +1,25 @@
+{
+    "name": "bkalish/wordpress.plugin.definitionlist",
+    "description": "A Wordpress plugin to add definition list tools to the TinyMCE editor.",
+    "homepage": "https://github.com/bkalish/wordpress.plugin.definitionlist",
+    "keywords": [
+        "WordPress", "definition list", "dl", "dt", "dd", "tinymce", "editor", "toolbar"
+    ],
+    "support": {
+        "issues": "https://github.com/bkalish/wordpress.plugin.definitionlist/issues",
+        "source": "https://github.com/bkalish/wordpress.plugin.definitionlist"
+    },
+    "license": "GPLv2.1",
+    "authors": [
+        {
+            "name": "",
+            "email": "",
+            "homepage": "https://github.com/bkalish"
+        }
+    ],
+    "type": "wordpress-plugin",
+    "require": {
+        "php": ">=5.4.0",
+        "composer/installers": "~1.0"
+    }
+}
