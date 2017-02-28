@@ -1,5 +1,5 @@
 {
-    "name": "bkalish/wordpress.plugin.definitionlist",
+    "name": "bkalish/definitionlist",
     "description": "A Wordpress plugin to add definition list tools to the TinyMCE editor.",
     "homepage": "https://github.com/bkalish/wordpress.plugin.definitionlist",
     "keywords": [
