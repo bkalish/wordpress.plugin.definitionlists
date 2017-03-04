@@ -11,12 +11,12 @@
 // TODO: Make ToggleDefinitionItem work on multiple items at once.
 // TODO: Restore selection where possible
 
-tinymce.PluginManager.add('definitionlist', definitionListPlugin);
+tinymce.PluginManager.add('definitionlists', definitionListsPlugin);
 
 /**
  * Plugin for definition lists.
  */
-function definitionListPlugin(editor, url) {
+function definitionListsPlugin(editor, url) {
 	editor.contentCSS.push(url + '/plugin-style.css');
 
 	editor.addCommand('ToggleDefinitionItem', toggleDefinitionItem);
