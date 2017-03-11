@@ -9,7 +9,7 @@
         "issues": "https://github.com/bkalish/wordpress.plugin.definitionlist/issues",
         "source": "https://github.com/bkalish/wordpress.plugin.definitionlist"
     },
-    "license": "GPLv2.1",
+    "license": "LGPLv2.1",
     "authors": [
         {
             "name": "Benjamin Kalish",

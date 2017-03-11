@@ -3,6 +3,7 @@
  * Plugin Name: DefinitionList
  * Description: Adds tools for working with Definition Lists (DL, DT, and DD) in the TinyMCE editor.
  * Version: 0.1
+ * License: LGPLv2.1
  * Author: Benjamin Kalish
  * GitHub Plugin URI: bkalish/wordpress.plugin.definitionlist
  */
